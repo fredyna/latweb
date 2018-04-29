@@ -1,4 +1,4 @@
 #Latihan Membuat Portfolio
-Latihan ini dilakukan bersama SMIT dalam pelatihan pemrograman web
+<br>Latihan ini dilakukan bersama SMIT dalam pelatihan pemrograman web
 
-SMIT 2018
+<br>SMIT 2018
